@@ -1,0 +1,6 @@
+useDynLib(uniformity)
+
+export(
+	euclidMST, euclidNN, testUniformMST,
+	testUniformCOV, testUniformMR, testUniformComponentErrors, testUniformRatioError)
+

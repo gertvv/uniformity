@@ -1,0 +1,8 @@
+Package: uniformity
+Title: Test uniformity of samples
+Version: 0.1
+Author: "Gert van Valkenhoef <g.h.m.van.valkenhoef@rug.nl>"
+Description: Various ways of assessing the uniformity of samples
+Depends: R (>= 3.0.2)
+License: GPL-3
+LazyData: true
